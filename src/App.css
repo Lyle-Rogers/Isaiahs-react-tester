@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.track {
+  color: red;
+}
+
+.tracks {
+  background-color: purple;
+  width: 100vw;
+  height: 91%;
+}
